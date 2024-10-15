@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🤝 Let's build something amazing together!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kenzi-c-98b900228) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ya-jyuan-c-98b900228) 
 
 # 💻 Tech Stack:
 
