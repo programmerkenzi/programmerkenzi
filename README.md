@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on some side projects using Python.
-- 🌱 I’m in the process of learning about LLM (Large Language Model) usage.
+- 🔭 I’m currently working on some side projects using solidity.
+- 🌱 I’m in the process of learning about smart contract development.
 - 🔥 Passionate about creating efficient and scalable solutions.
 - 💪 Always eager to explore new technologies and improve my skills.
 - 🤝 Let's build something amazing together!
