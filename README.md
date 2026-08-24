@@ -23,8 +23,7 @@ I'm a **Full-Stack Engineer** with 5 years of professional software development 
 * 🌱 Always learning, experimenting, and improving how I build software
 * 🤝 Open to connecting and building interesting things together
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ya-jyuan-c-98b900228) 
+🌐 Portfolio: [kenzichen.com](kenzichen.com)
 
 # 💻 Tech Stack:
 
