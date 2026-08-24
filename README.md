@@ -23,7 +23,7 @@ I'm a **Full-Stack Engineer** with 5 years of professional software development 
 * 🌱 Always learning, experimenting, and improving how I build software
 * 🤝 Open to connecting and building interesting things together
 
-🌐 Portfolio: [kenzichen.com](kenzichen.com)
+🌐 Portfolio: [kenzichen.com](https://kenzichen.com)
 
 # 💻 Tech Stack:
 
