@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on some side projects using python.
-- 🌱 I’m in the process of learning about LLM.
-- 🔥 Passionate about creating efficient and scalable solutions.
-- 💪 Always eager to explore new technologies and improve my skills.
-- 🤝 Let's build something amazing together!
+I'm a **Full-Stack Engineer** with 5 years of professional software development experience, building production SaaS, cross-platform applications, blockchain-integrated platforms, and AI-enabled products.
+
+* 💻 Working across **React, TypeScript, Node.js, Python, and .NET**
+* 🚀 Building and shipping end-to-end products from idea to production
+* 🤖 Exploring **AI-assisted development** and integrating AI into real-world applications
+* 🏗️ Interested in scalable architecture, developer experience, and product engineering
+* 🌱 Always learning, experimenting, and improving how I build software
+* 🤝 Open to connecting and building interesting things together
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ya-jyuan-c-98b900228) 
